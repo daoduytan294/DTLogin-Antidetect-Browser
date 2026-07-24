@@ -1,2 +1,2 @@
-# DTLogin-Antidetect-Browser---Releases
+# DTLogin-Antidetect-Browser
 DTLogin Antidetect Browser - Official releases and updates
