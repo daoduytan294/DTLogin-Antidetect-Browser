@@ -1,11 +1,18 @@
-﻿{
-    "versions":  [
-                     {
-                         "version":  "3.0.0",
-                         "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.0/DTLogin-3.0.0.zip",
-                         "sha256":  "1c067a421c90a68e3df503f93be16089508865354f5d45e2c03eea24871bf32c",
-                         "date":  "2026-08-20 00:00:00",
-                         "notes":  "Cap nhat DTLogin ban 3.0.0"
-                     }
-                 ]
+{
+  "versions": [
+    {
+      "version": "3.0.1",
+      "url": "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.1/DTLogin-3.0.1.zip",
+      "sha256": "69219fc81d73af63c3ac37470791a5fbecfe474c3e55863121e01f1441c3ccc5",
+      "date": "2026-09-26 11:17:00",
+      "notes": "DTLogin 3.0.1: fix luu mat khau, Firefox startup, tang toc profile, icon va do on dinh."
+    },
+    {
+      "version": "3.0.0",
+      "url": "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.0/DTLogin-3.0.0.zip",
+      "sha256": "1c067a421c90a68e3df503f93be16089508865354f5d45e2c03eea24871bf32c",
+      "date": "2026-08-20 00:00:00",
+      "notes": "Cap nhat DTLogin ban 3.0.0"
+    }
+  ]
 }
