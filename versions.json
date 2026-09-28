@@ -3,15 +3,15 @@
     {
       "version": "3.0.2",
       "url": "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.2/DTLogin-3.0.2.zip",
-      "sha256": "c40b982c3523deefeef3b220a51ab5586b4f211d9b51a26f07c4f6742be72eee",
-      "date": "2026-09-28 14:07:11",
+      "sha256": "dd782b106d57bb0ee00060cbaf8876e019cf515c62589f7f6c7ec69d4b6dd210",
+      "date": "2026-09-28 16:00:00",
       "notes": "3.0.2: tang toc login/mo profile, giam lag UI, chan browser DTLogin tu mo lai sau restart Windows, don startup cu an toan."
     },
     {
       "version": "3.0.1",
       "url": "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.1/DTLogin-3.0.1.zip",
       "sha256": "c7b7e76694d7b64c019e5fa5a970f58e1110f988cd2240aad370dba571dd04d0",
-      "date": "2026-09-26 11:17:00",
+      "date": "2026-09-26 12:00:00",
       "notes": "DTLogin 3.0.1: fix luu mat khau, Firefox startup, tang toc profile, icon va do on dinh."
     },
     {
