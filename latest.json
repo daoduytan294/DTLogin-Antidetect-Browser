@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.3",
-    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.3/DTLogin-3.0.3.zip",
-    "sha256":  "25f6cf4a6d0fe6aba3bc28c40b36f2f02d3d054b907732377f24c07eb0ec6758",
-    "date":  "2026-09-30 16:27:22",
-    "notes":  "3.0.3: Secure Slim Vault, don temp cu an toan, giam cache profile, crash recovery giu login/history/session, login retry thich ung, toi uu do muot UI."
+    "version":  "3.0.4",
+    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.4/DTLogin-3.0.4.zip",
+    "sha256":  "65d11940f407ec31593782cef5fffb3171432a9990d6191690fc17d7cb226bfa",
+    "date":  "2026-10-07 10:22:36",
+    "notes":  "3.0.4: giu extension rieng tung profile, fast close/logout, crash runtime recovery, session restore, cache cap, fix runaway RecoveryVault staging \u003e100GB."
 }
