@@ -1,6 +1,13 @@
 {
     "versions":  [
                      {
+                         "version":  "3.0.6",
+                         "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.6/DTLogin-3.0.6.zip",
+                         "sha256":  "3dfd40c2ff767a07e4c15dbbe5b4ebe593e9ade09d97288e78f9f5cb9c4df784",
+                         "date":  "2026-10-27 16:54:55",
+                         "notes":  "3.0.6: fix shared-browser taskbar STT/icon collisions, strict window identity, per-profile icon cache isolation, safe badge refresh and Windows release checks."
+                     },
+                     {
                          "version":  "3.0.5",
                          "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.5/DTLogin-3.0.5.zip",
                          "sha256":  "c08da8450a8c810ef3f57e5e530921c1e39c9bf6bb4c3f55a8189e0ef7e926fd",
