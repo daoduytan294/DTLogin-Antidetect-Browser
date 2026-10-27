@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.5",
-    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.5/DTLogin-3.0.5.zip",
-    "sha256":  "c08da8450a8c810ef3f57e5e530921c1e39c9bf6bb4c3f55a8189e0ef7e926fd",
-    "date":  "2026-10-15 09:57:27",
-    "notes":  "3.0.5: storage settings for Profiles/Runtime, safe Vault ZIP auto-cleanup (including old Runtime drives), clearer disk space checks, safer uninstall and crash recovery safeguards."
+    "version":  "3.0.6",
+    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.6/DTLogin-3.0.6.zip",
+    "sha256":  "65a43b1b104567a0392950f8191e7ca2a6d5231e2b7fc373cd35df2a575e28b6",
+    "date":  "2026-10-27 16:16:36",
+    "notes":  "3.0.6: fix shared-browser taskbar STT/icon collisions, strict window identity, per-profile icon cache isolation, safe badge refresh and Windows release checks."
 }
