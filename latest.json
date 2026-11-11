@@ -1,7 +1,7 @@
 {
     "version":  "3.0.9",
     "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.9/DTLogin-3.0.9.zip",
-    "sha256":  "f7b8c0e7323835b50fda971079ad00cb633034ac8cc559214d017a4747482236",
-    "date":  "2026-11-11 10:28:18",
-    "notes":  "3.0.9: Open DTLogin on the requesting Windows Virtual Desktop; prefer/move the verified browser profile window to the current desktop when allowed by Windows; prevent unwanted switching back, protect profile/Vault identity and preserve login/session; improve multi-desktop UI restoration and release metadata checks."
+    "sha256":  "7b308d2e88cbfea39dd9344dffdc183f0831ba47da5734aeedc86066d79b8138",
+    "date":  "2026-11-11 11:48:41",
+    "notes":  "3.0.9: Firefox Portable (145+) khôi phục cửa sổ trên Windows Virtual Desktop hiện tại; tách trạng thái trình duyệt khỏi tiến trình lưu Vault; làm mới trạng thái Profile nhanh và rõ ràng; cải thiện STT trên taskbar; cập nhật manifest và setup sau khi build."
 }
