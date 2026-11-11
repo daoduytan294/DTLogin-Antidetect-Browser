@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.8",
-    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.8/DTLogin-3.0.8.zip",
-    "sha256":  "eb0d03ca5f85eb9cf428c4d31636b79ee580647ef09a01ea0072d0222487052f",
-    "date":  "2026-11-05 16:18:30",
-    "notes":  "3.0.8: safe localized browser close confirmation, automatic Vault save, pencil edit buttons, safe deferred context-menu disposal, and guarded multi-tab prompt handling."
+    "version":  "3.0.9",
+    "url":  "https://github.com/daoduytan294/DTLogin-Antidetect-Browser/releases/download/v3.0.9/DTLogin-3.0.9.zip",
+    "sha256":  "f7b8c0e7323835b50fda971079ad00cb633034ac8cc559214d017a4747482236",
+    "date":  "2026-11-11 10:28:18",
+    "notes":  "3.0.9: Open DTLogin on the requesting Windows Virtual Desktop; prefer/move the verified browser profile window to the current desktop when allowed by Windows; prevent unwanted switching back, protect profile/Vault identity and preserve login/session; improve multi-desktop UI restoration and release metadata checks."
 }
